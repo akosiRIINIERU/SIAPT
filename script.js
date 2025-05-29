@@ -36,7 +36,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
     
     // If form is valid, redirect to dashboard
     if (isValid) {
-        window.location.href = 'supplies.html';
+        window.location.href = 'riasgremoryhsdxd.github.io/PayrollManagementSystem2/#/';
     }
 });
 
