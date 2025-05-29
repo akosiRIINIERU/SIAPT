@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@layer components {
+  .new-request-container {
+    @apply w-full flex justify-center z-10;
+  }
+
+  .new-request-container button {
+    @apply bg-[#2763e8] text-white rounded-b-xl shadow-md 
+               flex items-center justify-center text-center 
+               px-5 py-3 text-sm 
+               sm:px-6 sm:py-3 sm:text-base;
+  }
+}
